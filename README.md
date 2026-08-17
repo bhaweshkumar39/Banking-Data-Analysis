@@ -30,7 +30,7 @@ Generate business insights from the analyzed data
 * Prepared categorical and numerical features
 * Created a cleaned dataset for analysis and visualization
 
-## 📊 Analysis
+## Analysis
 
 Key areas analyzed:
 
